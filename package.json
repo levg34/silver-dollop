@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/levg34/silver-dollop#readme",
   "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
     "next": "^10.0.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
