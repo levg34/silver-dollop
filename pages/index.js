@@ -5,7 +5,9 @@ function HomePage() {
         <Head>
             <title>Silver dollop</title>
         </Head>
-        <h1>Silver dollop</h1>
+        <main className="container">
+            <h1>Silver dollop</h1>
+        </main>
     </>
 }
 
