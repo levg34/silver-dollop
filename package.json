@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 8080",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 8000"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
     "bootstrap": "^5.0.0-beta1",
     "next": "^10.0.6",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1"
   }
 }

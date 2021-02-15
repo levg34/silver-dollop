@@ -1,13 +1,14 @@
 import Head from 'next/head'
+import Container from 'react-bootstrap/Container'
 
 function HomePage() {
     return <>
         <Head>
             <title>Silver dollop</title>
         </Head>
-        <main className="container">
+        <Container>
             <h1>Silver dollop</h1>
-        </main>
+        </Container>
     </>
 }
 
