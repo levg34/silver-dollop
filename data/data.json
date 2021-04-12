@@ -1,0 +1,31 @@
+{
+    "users": {
+        "luc": {
+            "notes": [
+                {
+                    "title": "truc",
+                    "content": "machin"
+                },
+                {
+                    "title": "bidule",
+                    "content": "chose"
+                },
+                {
+                    "title": "machin",
+                    "content": "bidule chose truc"
+                }
+            ]
+        },
+        "xi": {
+            "notes": []
+        },
+        "levg34": {
+            "notes": [
+                {
+                    "title": "Katerine",
+                    "content": "Bonjour je suis la reine d'Angleterre..."
+                }
+            ]
+        }
+    }
+}
